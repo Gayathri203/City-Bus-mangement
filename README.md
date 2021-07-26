@@ -1,0 +1,2 @@
+# City-Bus-mangement
+An efficient vehicle tracking system is designed and implemented for tracking the movement of any equipped vehicle from any location at any time. The designed in-vehicle device works using Global Positioning System (GPS) technology, one of the most common vehicle tracking methods. The device is embedded inside a vehicle whose position is to be determined and tracked in real-time. The vehicle tracking system uses the GPS module to get geographic coordinates at regular time intervals.
